@@ -21,7 +21,7 @@
 ###
 
 <p align="left">
-  Aspiring problem solver and passionate software developer with a love for turning innovative ideas into functional, efficient, and user-friendly applications. Welcome to my   GitHub profile, where I'm on a journey to explore the vast realm of technology and contribute to the world of software development. Btw, it's ChatGPT Generated :). Too lazy to think about me.
+  Aspiring problem solver and passionate software developer with a love for turning innovative ideas into functional, efficient, and user-friendly applications. Welcome to my   GitHub profile, where I'm on a journey to explore the vast realm of technology and contribute to the world of software development. Btw, it's ChatGPT Generated :). Too lazy to think about myself.
   <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
