@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 ###
 
@@ -20,7 +20,9 @@
 
 ###
 
-<p align="left">I'm a software developer from Indonesia<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  Aspiring problem solver and passionate software developer with a love for turning innovative ideas into functional, efficient, and user-friendly applications. Welcome to my   GitHub profile, where I'm on a journey to explore the vast realm of technology and contribute to the world of software development. (ChatGPT Generated :)))
+  <br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
