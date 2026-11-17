@@ -25,7 +25,11 @@
 ###
 
 <p align="left">
-  Aspiring problem solver and passionate software developer with a love for turning innovative ideas into functional, efficient, and user-friendly applications. Welcome to my   GitHub profile, where I'm on a journey to explore the vast realm of technology and contribute to the world of software development. Btw, it's ChatGPT generated :). Too lazy to think about myself.
+  I'm a software engineer who enjoys building reliable systems, solving complex engineering problems, and turning ideas into practical software solutions.
+
+With a strong background in backend development, I work primarily with Laravel, PHP, Golang, and Node.js. Beyond writing code, I enjoy designing system architectures, improving development workflows, leading engineering teams, and exploring how AI agents can transform the way we build and operate software.
+
+Currently focused on building scalable applications, engineering productivity, and AI-powered automation.
  
 
 ###
