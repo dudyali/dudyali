@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Backend Engineer · Engineering Lead · AI & Automation Enthusiast</h3>
 
 ###
 
